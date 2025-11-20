@@ -1,5 +1,5 @@
 # Technical-Support-Labs
-## 
+## Table of Contents
 
 ---
 ## Overview
