@@ -9,7 +9,7 @@ A collection of home lab projects focused on IT operations, troubleshooting, and
 
 ## Lab Topics
 
-1. [Ticketing System Lab Using Spiceworks](https://accounts.spiceworks.com/join/)
+1. [Ticketing System Lab Using Spiceworks](https://github.com/Pontipek/IT-Ticketing-System#)
 
 ## Tools
 
