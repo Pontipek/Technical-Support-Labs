@@ -7,7 +7,7 @@
 
 ---
 ## 🌐 Overview
-This repository is a collection of hands-on home lab projects designed to build and demonstrate practical IT support skills. Each lab focuses on real-world tasks found in technical support, IT operations, and troubleshooting environments. These projects highlight the fundamentals of user support, system configuration, documentation, and incident handling—making this repo a strong part of an IT portfolio.
+This repository is a collection of hands-on home lab projects designed to build and demonstrate practical IT support skills. Each lab focuses on real-world tasks found in technical support, IT operations, and troubleshooting environments. These projects highlight the fundamentals of user support, system configuration, documentation, and incident handling, making this repo a strong part of an IT portfolio.
 
 ## 🎯 Goals
 - Strengthen core IT troubleshooting and problem-solving skills  
@@ -34,7 +34,7 @@ Hands-on scenarios involving networking, hardware, OS issues, and root-cause ana
 - Windows & Linux virtual machines  
 - VirtualBox / VMware  
 - PowerShell & Command Line  
-
+<br/><br/>
 > **📌 Note:** This is an ongoing learning project. New topics and labs will be added as I continue building skills in IT support, systems administration, and troubleshooting.
 ---
 Last Updated: November 2025
