@@ -21,9 +21,9 @@ This repository is a collection of hands-on home lab projects designed to build 
 Simulates Tier 1 support workflows, ticket creation, prioritization, and resolution.  
 🔗 Repo: [Ticketing System Using Spiceworks](https://github.com/Pontipek/IT-Ticketing-System#)
 
-### 2️⃣ **Active Directory Basics**  
+### 2️⃣ **Active Directory Lab**  
 Covers user management, group permissions, authentication concepts, and administrative tasks.  
-🔗 Repo: *(coming soon)*
+🔗 Repo: [Active Directory Basics](https://github.com/Pontipek/Active-Directory-Lab)
 
 ### 3️⃣ **IT Troubleshooting Lab**  
 Hands-on scenarios involving networking, hardware, OS issues, and root-cause analysis.  
